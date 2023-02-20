@@ -12,3 +12,9 @@ public class j_p_ass1 {
         System.out.println("Hello " + fname + " " + lname);
     }
 }
+/*
+ * input your first name : sandipan
+   input your last name : pradhan
+
+   Hello sandipan pradhan
+ */
